@@ -19,6 +19,8 @@ The videos have two types of dimensions - either 360x360 or 120x160 (depending o
 
 Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
+https://www.kaggle.com/datasets/aravindvcyber/av-ms-gesture-recognition-project/
+
  
 
 
