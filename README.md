@@ -24,7 +24,7 @@ The videos have two types of dimensions - either 360x360 or 120x160 (depending o
 
 Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
-https://www.kaggle.com/datasets/aravindvcyber/av-ms-gesture-recognition-project/
+Upload Kaggle Dataset Used: https://www.kaggle.com/datasets/aravindvcyber/av-ms-gesture-recognition-project/
 
 Case Study Write-up: [Gesture Recognition RNN Write-up](./Gesture%20Recognition%20RNN%2Bwrite-up.pdf)
 
