@@ -26,7 +26,7 @@ Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 https://www.kaggle.com/datasets/aravindvcyber/av-ms-gesture-recognition-project/
 
-Case Study Write-up: [Case Study Write-up](./Gesture Recognition RNN+write-up.pdf)
+Case Study Write-up: [Gesture Recognition RNN Write-up](./Gesture%20Recognition%20RNN%2Bwrite-up.pdf)
 
 Notebook used: [Case Study Write-up](./Gesture-Recognition-RNN.ipynb)
 
